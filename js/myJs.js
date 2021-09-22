@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/hnhathuyen288";
+            window.location = "https://www.facebook.com/hanhathuyen288";
           },
         });
       }
